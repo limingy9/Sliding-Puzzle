@@ -1,0 +1,10 @@
+
+
+//SRVA/Homes$/limingy9/Desktop/lab7/part2/vga_adapter/vga_pll.v
+
+Mar 13 06PM:48:35>: Error in CNX file format.
+
+Error messages are listed in file
+//SRVA/Homes$/limingy9/Desktop/lab7/part2/vga_adapter/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)

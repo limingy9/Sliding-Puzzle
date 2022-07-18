@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Walden/Documents/GitHub/Sliding-Puzzle/milestone2/gameBoard/gameBoardPart2/gameBoardFSM
+vgameBoardFSM
+!s110 1522244469
+!i10b 1
+!s100 ZaMDz>A>V[;YfZl?B8@LB3
+IU`;CmBDC_mcOYX`_;Ia2^0
+VDg1SIo80bB@j0V0VzS_@n1
+dC:/users/walden/documents/gitHub/sliding-Puzzle/milestone2/gameBoard/gameboardPart2/gameBoardfSM
+w1522244464
+8gameBoardFSM.v
+FgameBoardFSM.v
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1522244468.000000
+!s107 gameBoardFSM.v|
+!s90 -reportprogress|300|-timescale|1ns/1ns|gameBoardFSM.v|
+!i113 1
+o-timescale 1ns/1ns
+tCvgOpt 0
+ngame@board@f@s@m

@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/users/walden/documents/gitHub/sliding-Puzzle/milestone1/countDown
+vcountDown
+Z1 !s110 1521057998
+!i10b 1
+!s100 08Y1VG0`gl@[mfD_NAVI41
+IeB9c31GIglz?AjhXhYkzY2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1521057994
+Z4 8countDown.v
+Z5 FcountDown.v
+L0 1
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1521057997.000000
+Z8 !s107 countDown.v|
+Z9 !s90 -reportprogress|300|-timescale|1ns/1ns|countDown.v|
+!i113 1
+Z10 o-timescale 1ns/1ns
+Z11 tCvgOpt 0
+ncount@down
+vrateDivider
+R1
+!i10b 1
+!s100 REigE1^O7ZaeUKk9In_Y21
+IBEokRDZUd:S^ih83ZZn;42
+R2
+R0
+R3
+R4
+R5
+L0 39
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nrate@divider
